@@ -1,0 +1,22 @@
+{
+    "accounts": [
+        {
+            "id": "1",
+            "account_number": "ABC15797531",
+            "description": "Industrial Cleaning Supply Company",
+            "name": "Xytrex Co.",
+            "field" : {
+                "x": 1
+            }
+        },
+        {
+            "id": "2",
+            "account_number": "ABC15797531",
+            "description": "Industrial Cleaning Supply Company",
+            "name": "Xytrex Co.",
+            "field" : {
+                "x": 5
+            }
+        }
+    ]
+}
